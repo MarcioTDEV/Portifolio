@@ -120,12 +120,12 @@ body {
     
     .header_botao{display: none; padding: 0;}
     .header_container_menus{    
-        position: static;
+       position: static;
         max-width: auto;
         margin: 0 auto;
         height: 60px;
-        justify-content: left;
         flex-direction: row;
+        justify-content: left;
         border: none;
         background-color: black;
         width: 100%;
