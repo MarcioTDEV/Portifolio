@@ -125,6 +125,7 @@ body {
         margin: 0 auto;
         height: 60px;
         flex-direction: row;
+        justify-content: left;
         border: none;
         background-color: black;
         width: 100%;
