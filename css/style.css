@@ -124,6 +124,7 @@ body {
         max-width: auto;
         margin: 0 auto;
         height: 60px;
+        justify-content: left;
         flex-direction: row;
         border: none;
         background-color: black;
