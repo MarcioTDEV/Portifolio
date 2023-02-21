@@ -1,0 +1,11 @@
+Conteúdo do portifólio
+
+-Header: nome, botao para contato, redes sociais 
+- sobre mim: descrição sobre com quais tecnologias trabalha
+aspirações, o que deseja alcançar, etc
+- o que sei fazer
+- projetos: colocar os melhores projetos
+foto do projeto com descrição do mesmo, com um link para divulgação
+Contatos:
+
+Portifólio responsivo, acessível e simples
